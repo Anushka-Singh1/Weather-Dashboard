@@ -1,6 +1,8 @@
 # Weather-Dashboard
 <p>The Weather Dashboard is a simple web application that allows users to check the current weather of a specific city. It fetches weather data from the <b>OpenWeatherMap API</b> and displays relevant information such as temperature, humidity, wind speed, and weather conditions.</p>
 
+[![Check out the Live Demo](https://img.shields.io/badge/Live%20Demo-Visualize%20Sorting%20Algorithms-brightgreen)](https://weatherdashboard-as.netlify.app)
+
 ![weather-dashboard](https://github.com/Anushka-Singh1/Weather-Dashboard/assets/98011558/a889c3a2-0928-4568-bdaf-cdd9a7b91747)
 <h1>Features</h1>
     
